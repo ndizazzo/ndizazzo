@@ -5,7 +5,13 @@
 </a>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=swift,go,js,ts,react,docker,kubernetes,git,github,postgres,terraform,c,cpp,ruby)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,swift,go,js,ts,react,rails,ruby,c,cpp,regex&perline=13)](https://skillicons.dev)
+
+### DevOps & Infrastructure
+[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,aws,gcp,cloudflare,nginx,kafka,redis,linux,ubuntu,arch,raspberrypi&perline=13)](https://skillicons.dev)
+
+### Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm,vite,vscode,vim,sentry,tailwind,postgres&perline=13)](https://skillicons.dev)
 
 ### Connect with me!
 <div>
