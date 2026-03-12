@@ -5,13 +5,13 @@
 </a>
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=apple,swift,go,js,ts,react,rails,ruby,c,cpp,regex&perline=13)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,go,js,rails,react,regex,ruby,swift,ts&perline=13)](https://skillicons.dev)
 
 ### DevOps & Infrastructure
-[![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,ansible,terraform,aws,gcp,cloudflare,nginx,kafka,redis,linux,ubuntu,arch,raspberrypi&perline=13)](https://skillicons.dev)
+[![DevOps](https://skillicons.dev/icons?i=ansible,arch,aws,cloudflare,docker,gcp,jenkins,kafka,kubernetes,linux,nginx,raspberrypi,redis,terraform,ubuntu&perline=13)](https://skillicons.dev)
 
 ### Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm,vite,vscode,vim,sentry,tailwind,postgres&perline=13)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm,postgres,sentry,tailwind,vim,vite,vscode&perline=13)](https://skillicons.dev)
 
 ### Connect with me!
 <div>
