@@ -4,16 +4,33 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=a78bfa&width=435&lines=Hey%2C+I%27m+Nick+DiZazzo;Software+Engineer" alt="Software Engineer"/>
 </a>
 
+### My Projects
+
+#### Saddle
+
+<a href="https://saddle.sh">
+    <img width="100%" src="./images/saddle.png" alt="Saddle"/>
+</a>
+
+> [!TIP]
+> **Spotlight: [Saddle](https://saddle.sh)**
+>
+> Agent setup, minus the drift. Keep agents, skills, commands, and configs aligned across Claude Code, Codex, Copilot, Cursor, Gemini, and OpenCode.
+
 ### Skills
+
 [![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,go,js,rails,react,regex,ruby,swift,ts&perline=13)](https://skillicons.dev)
 
 ### DevOps & Infrastructure
+
 [![DevOps](https://skillicons.dev/icons?i=ansible,arch,aws,cloudflare,docker,gcp,jenkins,kafka,kubernetes,linux,nginx,raspberrypi,redis,terraform,ubuntu&perline=13)](https://skillicons.dev)
 
 ### Tools
+
 [![Tools](https://skillicons.dev/icons?i=git,github,githubactions,npm,pnpm,postgres,sentry,tailwind,vim,vite,vscode&perline=13)](https://skillicons.dev)
 
 ### Connect with me!
+
 <div>
     <a href="https://github.com/ndizazzo">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
@@ -27,6 +44,7 @@
 </div>
 
 ### Resume & Portfolio
+
 > [!IMPORTANT]
 > <a href="https://nickdizazzo.com">nickdizazzo.com</a>
 
