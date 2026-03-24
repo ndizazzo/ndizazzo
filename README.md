@@ -17,6 +17,17 @@
 >
 > Agent setup, minus the drift. Keep agents, skills, commands, and configs aligned across Claude Code, Codex, Copilot, Cursor, Gemini, and OpenCode.
 
+#### Tokey
+
+<a href="https://tokey.ai">
+    <img width="100%" src="./images/tokey.png" alt="Tokey"/>
+</a>
+
+> [!TIP]
+> **Spotlight: [Tokey](https://tokey.ai)**
+>
+> Token streaming, demystified. Simulate and visualize LLM token-by-token output, run hardware benchmarks from your terminal, and compare results from others on real hardware.
+
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=apple,c,cpp,go,js,rails,react,regex,ruby,swift,ts&perline=13)](https://skillicons.dev)
